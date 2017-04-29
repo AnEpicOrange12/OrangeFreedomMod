@@ -1,0 +1,154 @@
+# 
+# TotalFreedomMod 5.0 Admin List
+madgeek1450:
+  username: Madgeek1450
+  active: false
+  rank: SENIOR_ADMIN
+  ips:
+  - 1.2.3.4
+  - 8.8.8.8
+  last_login: Sat, 2 Apr 2016 08:08:39 -0600
+  login_message: the &4Co-Founder&b and &6Master-ass-kicker&b.
+amirminecraft:
+  username: amirminecraft
+  active: true
+  rank: EXECUTIVE
+  ips:
+  - 185.109.250.90
+  last_login: Wed, 26 Apr 2017 12:57:47 -0600
+  login_message: '&4is &9a &8excutive &2and &ahe has &9permision to set &9rank'
+markbyron:
+  username: carljohnson12
+  active: false
+  rank: SENIOR_ADMIN
+  ips:
+  - 8.8.4.4
+  - 50.110.197.52
+  last_login: Mon, 24 Apr 2017 17:00:38 -0600
+  login_message: the &dOwner&b.
+alin1234567:
+  username: Alin1234567
+  active: true
+  rank: ADMIN
+  ips:
+  - 89.136.239.118
+  last_login: Wed, 26 Apr 2017 13:10:47 -0600
+joshward:
+  username: JoshWard
+  active: true
+  rank: COOWNER
+  ips:
+  - 109.163.153.3
+  - 31.176.155.87
+  - 31.176.137.191
+  - 37.203.71.26
+  - 31.176.152.171
+  - 37.203.66.208
+  last_login: Wed, 26 Apr 2017 14:46:31 -0600
+  login_message: '&cCo-Owner'
+sqfe:
+  username: Sqfe
+  active: true
+  rank: ADMIN
+  ips:
+  - 94.195.82.33
+  last_login: Wed, 26 Apr 2017 13:13:42 -0600
+  login_message: '&ba &cSuper Admin &band a &aSuper Sexy Door&b &bwho owns &6DoorLand&b!'
+ryanx1000:
+  username: RyanX1000
+  active: true
+  rank: EXECUTIVE
+  ips:
+  - 139.228.235.18
+  last_login: Sun, 23 Apr 2017 20:08:32 -0600
+slimeblue:
+  username: SlimeBlue
+  active: false
+  rank: SUPER_ADMIN
+  ips:
+  - 185.124.251.213
+  last_login: Tue, 25 Apr 2017 06:34:13 -0600
+bradendragon:
+  username: BradenDragon
+  active: true
+  rank: WEBDEV
+  ips:
+  - 209.65.66.113
+  last_login: Tue, 25 Apr 2017 19:31:30 -0600
+  login_message: '&1&la &2&lCo-Owner &3&land &4&la &5&lWeb-Developer&6&l!'
+prozza:
+  username: Prozza
+  active: false
+  rank: SENIOR_ADMIN
+  ips:
+  - 127.0.0.1
+  last_login: Sat, 2 Apr 2016 08:08:39 -0600
+  login_message: the &5Lead Developer&b!
+raduino:
+  username: Raduino
+  active: true
+  rank: SENIOR_ADMIN
+  ips:
+  - 86.121.83.211
+  last_login: Wed, 26 Apr 2017 10:27:26 -0600
+  login_message: a &6SeniorAdmin &band a &cDiscordAdmin
+ultimatesansau:
+  username: UltimateSansAu
+  active: true
+  rank: EXECUTIVE
+  ips:
+  - 90.216.109.128
+  last_login: Wed, 26 Apr 2017 17:53:00 -0600
+gabtheminer:
+  username: GabTheMiner
+  active: true
+  rank: SENIOR_ADMIN
+  ips:
+  - 188.220.140.106
+  last_login: Fri, 21 Apr 2017 13:29:06 -0600
+stelpan:
+  username: Stelpan
+  active: true
+  rank: COOWNER
+  ips:
+  - 153.92.128.30
+  last_login: Sat, 22 Apr 2017 14:42:32 -0600
+jmphase:
+  username: JMPhase
+  active: false
+  rank: ADMIN
+  ips:
+  - 101.160.151.6
+  last_login: Tue, 25 Apr 2017 00:45:21 -0600
+mrdicty:
+  username: MrDicty
+  active: true
+  rank: COOWNER
+  ips:
+  - 80.42.193.60
+  last_login: Wed, 26 Apr 2017 15:07:11 -0600
+mappop:
+  username: Mappop
+  active: true
+  rank: SUPER_ADMIN
+  ips:
+  - 78.148.180.89
+  - 78.148.184.42
+  - 78.148.185.200
+  last_login: Wed, 26 Apr 2017 10:40:08 -0600
+  login_message: '&1Is The Best Super Admin In The World!'
+chaosunlimited_:
+  username: ChaosUnlimited_
+  active: true
+  rank: WEBDEV
+  ips:
+  - 159.0.200.206
+  last_login: Wed, 26 Apr 2017 09:41:28 -0600
+anepicorange12:
+  username: AnEpicOrange12
+  active: true
+  rank: COOWNER
+  ips:
+  - 71.198.121.54
+  last_login: Wed, 26 Apr 2017 17:53:07 -0600
+  login_message: the &5&lOwner

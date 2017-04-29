@@ -6,7 +6,7 @@ import org.bukkit.ChatColor;
 public enum Title implements Displayable
 {
 
-    DEVELOPER("a", "Developer", ChatColor.DARK_PURPLE, "Dev"),
+    DEVELOPER("a", "OrangeFreedom-Developer", ChatColor.DARK_PURPLE, "OF-Dev"),
     QUEEN("the", "Queen", ChatColor.LIGHT_PURPLE, "Queen"),
     OWNER("the", "Owner", ChatColor.DARK_RED, "Owner");
 

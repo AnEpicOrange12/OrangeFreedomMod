@@ -19,6 +19,7 @@ public enum Rank implements Displayable
     TCA("a", "Telnet Clan Admin", Type.ADMIN, "TCA", ChatColor.GREEN),
     TELNET_ADMIN("a", "Telnet Admin", Type.ADMIN, "STA", ChatColor.DARK_GREEN),
     SENIOR_ADMIN("a", "Senior Admin", Type.ADMIN, "SrA", ChatColor.GOLD),
+    DISCORD_ADMIN("a", "Discord Admin", Type.ADMIN, "Discord Admin", ChatColor.LIGHT_PURPLE),
     SYSADMIN("a", "System Admin", Type.ADMIN, "System Admin", ChatColor.RED),
     EXECUTIVE("an", "Executive", Type.ADMIN, "Executive", ChatColor.GRAY),
     COOWNER("the", "Co-Owner", Type.ADMIN, "Co-Owner", ChatColor.DARK_AQUA),
@@ -27,6 +28,7 @@ public enum Rank implements Displayable
     EXE_CONSOLE("the", "Executive-Console", Type.ADMIN_CONSOLE, "Executive-Console", ChatColor.WHITE),
     CO_CONSOLE("the", "Co-Owner-Console", Type.ADMIN_CONSOLE, "CO-Console", ChatColor.DARK_AQUA),
     WEB_CONSOLE("the", "Web-Console", Type.ADMIN_CONSOLE, "Web_Console", ChatColor.DARK_GRAY),
+    DISCORD_CONSOLE("a", "Discord-Console", Type.ADMIN_CONSOLE, "Discord-Console", ChatColor.LIGHT_PURPLE),
     TELNET_CONSOLE("the", "Telnet-Console", Type.ADMIN_CONSOLE, "Telnet-Console", ChatColor.DARK_PURPLE),
     SENIOR_CONSOLE("the", "Senior-Console", Type.ADMIN_CONSOLE, "Senior-Console", ChatColor.DARK_PURPLE);
     @Getter
@@ -111,6 +113,9 @@ public enum Rank implements Displayable
             case SYSADMIN:
             case SYS_CONSOLE:
                 return SYS_CONSOLE;
+            case DISCORD_ADMIN:
+            case DISCORD_CONSOLE:
+                return DISCORD_CONSOLE;
             case EXECUTIVE:
             case EXE_CONSOLE:
                 return EXE_CONSOLE;
@@ -136,6 +141,9 @@ public enum Rank implements Displayable
             case COOWNER:
             case CO_CONSOLE:
                 return COOWNER;
+            case SYSADMIN:
+            case SYS_CONSOLE:
+                    return SYS_CONSOLE; 
             default:
                 return null;
         }

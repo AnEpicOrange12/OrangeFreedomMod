@@ -87,7 +87,7 @@ public class RankManager extends FreedomService
         // CONSOLE?
         if (sender.getName().equals("CONSOLE"))
         {
-            return ConfigEntry.ADMINLIST_CONSOLE_IS_SENIOR.getBoolean() ? Rank.SENIOR_CONSOLE : Rank.TELNET_CONSOLE;
+            return ConfigEntry.ADMINLIST_CONSOLE_IS_SENIOR.getBoolean() ? Rank.CO_CONSOLE : Rank.EXE_CONSOLE;
         }
 
         // Console admin, get by name
@@ -96,7 +96,7 @@ public class RankManager extends FreedomService
         // Unknown console: RCON?
         if (admin == null)
         {
-            return Rank.SENIOR_CONSOLE;
+            return Rank.CO_CONSOLE;
         }
 
         Rank rank = admin.getRank();
