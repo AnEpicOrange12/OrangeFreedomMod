@@ -1,5 +1,5 @@
 #
-# TotalFreedomMod 5.0 Configuration
+# OrangeFreedomMod 5.0 Configuration
 # by Madgeek1450 and Prozza
 #
 
@@ -12,15 +12,38 @@ server:
   address: orangefreedom.mc-srv.com
 
   # Shown at the server list
-  motd: OrangeFreedom! The origional OrangeFreedom! Come Chill! We are 1.8 to 1.11.12
+  motd: OrangeFreedom. Free Op. Free Build. Free Fun. Staff Need. 1.9 - 1.11.2
 
   # Every word in the MOTD will be a different color unless prefixed by a color code
   colorful_motd: true
 
   # All players who show up as owner
   owners:
-    - AnEpicOrange12
-
+    - TheTangerinee
+    
+  # All players who show up as coowner
+  coowners:
+    - amirminecraft
+    - MrDicty
+    - BradenDragon
+  
+  # All players who show up as executive
+  executives:
+    - JoshWard
+    - Ryan_Kaito1000
+    
+  # All players who show up as master architect
+  masterarchitects: 
+    - KholeGaming
+    
+  # All players who show up as discord admin
+  discordadmins:
+    - markbyron
+    
+  # All players who show up as forum admin
+  forumadmins:
+    - ChaosUnlimited_
+    
   # URL players should appeal for bans at
   ban_url: http://orangefreedommm.boards.net/
 
@@ -125,6 +148,10 @@ blocked_commands:
   - 'n:b:/nuke:_'
   - 'n:b:/summon:_'
   - 'n:b:/kickall:_'
+  - 'n:b:/kittycannon:_'
+  - 'n:b:/kill:_'
+  - 'n:b:/reload:_'
+  - 'n:b:/banip:_'
 
   # Superadmin commands
   - 's:b:/save-all:_'
@@ -171,6 +198,7 @@ blocked_commands:
   - 's:b:/seen:_'
   - 's:b:/delwarp:_'
   - 's:b:/shout:_'
+  - 's:b:/co:_'
   
   # Superadmin commands - Auto-eject
   - 's:a:/stop:_'
@@ -257,7 +285,7 @@ announcer:
     - 'Screenshot your buildings to save them before wipeout!'
     - 'Famous players, such as Notch, are always fake! We are an offline/cracked server!'
     - 'You may contact OrangeFreedom staff on our forums!'
-    - 'AnEpicOrange12 is the owner of OrangeFreedom.'
+    - 'TheTangerinee is the owner of OrangeFreedom.'
     - 'Server lagging?  Check the lag via "/tps"'
     - 'You are allowed to record and stream videos on OrangeFreedom.'
     - 'Player vs player while in creative or god mode it forbidden!'

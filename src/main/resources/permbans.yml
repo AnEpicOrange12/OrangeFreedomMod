@@ -1,10 +1,11 @@
 #
-# TotalFreedomMod 5.0 Permanent Bans
+# OrangeFreedomMod 5.0 Permanent Bans
 #
 
 badplayer1:
   - 123.123.123.123
   - 321.321.321.321
+  - 91.221.132.131
 badplayer2:
   - 111.111.111.111
 badplayer3: []
